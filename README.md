@@ -64,7 +64,7 @@ If you choose to generate the more convenient packed data representation, you wi
 
 ![image](images/packed-data.png)
 
-Now, navigate to the VBKRegistry contract on the Hemi Mainnet Explorer [Releases](https://explorer.hemi.xyz/address/0xA7402C49B8947901c5F8A7fcd9AacD820bAcdDdB). 
+Now, navigate to the VBKRegistry contract on the Hemi Mainnet Explorer [Here](https://explorer.hemi.xyz/address/0xA7402C49B8947901c5F8A7fcd9AacD820bAcdDdB). 
 
 Click on the "Contract" tab:
 
